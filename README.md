@@ -4,6 +4,22 @@ Welcome to CodeLearnHub, a GitHub repository dedicated to sharing learning mater
 
 ## Recorded Live Classes
 
+
+### Session 12 - July 19, 2023
+- [Theory on AWS Lambda and Concurrency](https://1drv.ms/v/s!AtU9TuJ-bPvUgQXagRUk3pDqPRjC?e=2ZCTDU)
+   - Explore the theoretical aspects of AWS Lambda and its concurrency capabilities.
+- [Theory on Login, Security, and Cognito Usage](https://1drv.ms/v/s!AtU9TuJ-bPvUgQZbBbAT1IFxy2Cw?e=OTo6uf)
+   - Learn about login and security concepts, and understand the usage of Cognito.
+
+### Session 11 - July 16, 2023
+- [Business Explanation and Google Chrome Alerts API](https://1drv.ms/v/s!AtU9TuJ-bPvUgQPq5D_YzC8j4Vi2?e=gMsNIT)
+   - Delve into the business explanation and Google Chrome Alerts API.
+- [Developments Presentation by Richard in Google Extensions](https://1drv.ms/v/s!AtU9TuJ-bPvUgQIpKu-6lGpLJxig?e=XNzeGO)
+   - Discover the developments presented by Richard in Google Extensions.
+- [Practical Session: Lambdas and Postman Usage](https://1drv.ms/v/s!AtU9TuJ-bPvUgQQYelzi7kxWVbjY?e=ZlwgAb)
+   - Get hands-on with Lambdas and learn how to call them using Postman.
+
+
 ### Session 10 - July 12, 2023
 - [Presentation: Business Idea - Group 2](https://1drv.ms/v/s!AoU3cjlpRkzEgyXEJyuDnFKEfJMc?e=s2uOyR)
    - In this session, Group 2 presents their innovative business idea.
