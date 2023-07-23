@@ -4,6 +4,14 @@ Welcome to CodeLearnHub, a GitHub repository dedicated to sharing learning mater
 
 ## Recorded Live Classes
 
+### Session 12 - July 23, 2023
+- [Explanation of Connections Between Cognito JWT, API Gateway, and DynamoDB](https://1drv.ms/v/s!AmnKKw2FXC6Ua7KMkABxz7rp8n0?e=ea8NC7)
+   - In this session, I explain the connections between Cognito JWT, API Gateway, and DynamoDB, providing insights into their integration.
+
+### Daily - July 21, 2023
+- [Resolving Doubts on Communication and Variable Return of Google Extensions](https://1drv.ms/v/s!AmnKKw2FXC6UarEmLLNuwF5JNm4?e=dU8jYo)
+   - During this session, I address doubts related to communication and variable return of Google Extensions.
+
 
 ### Session 12 - July 19, 2023
 - [Theory on AWS Lambda and Concurrency](https://1drv.ms/v/s!AtU9TuJ-bPvUgQXagRUk3pDqPRjC?e=2ZCTDU)
