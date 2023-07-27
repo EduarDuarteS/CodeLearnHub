@@ -4,6 +4,11 @@ Welcome to CodeLearnHub, a GitHub repository dedicated to sharing learning mater
 
 ## Recorded Live Classes
 
+### Session 13 - July 26, 2023
+- [Secure Storage with Google Chrome Session Storage and Encryption](https://1drv.ms/v/s!AmnKKw2FXC6Ubu_GVr1l1e6B9uw?e=wVSwhZ)
+   - In this session, we discuss secure storage using Google Chrome Session Storage, where data is encrypted for added security. We also delve into the practical implementation of Session 12's topic.
+
+
 ### Session 12 - July 23, 2023
 - [Explanation of Connections Between Cognito JWT, API Gateway, and DynamoDB](https://1drv.ms/v/s!AmnKKw2FXC6Ua7KMkABxz7rp8n0?e=ea8NC7)
    - In this session, I explain the connections between Cognito JWT, API Gateway, and DynamoDB, providing insights into their integration.
